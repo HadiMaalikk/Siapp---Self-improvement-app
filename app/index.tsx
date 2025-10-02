@@ -7,9 +7,10 @@ export default function Index() {
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
+        
       }}
     >
-      <Text>Good morning</Text>
+      <Text >App yoooo monu</Text>
     </View>
   );
 }
