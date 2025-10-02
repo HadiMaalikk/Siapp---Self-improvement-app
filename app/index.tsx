@@ -10,7 +10,7 @@ export default function Index() {
         
       }}
     >
-      <Text >App monu</Text>
+      <Text >Siapp - Self Improvement App</Text>
     </View>
   );
 }
