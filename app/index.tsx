@@ -10,7 +10,7 @@ export default function Index() {
         
       }}
     >
-      <Text >App yoooo monu</Text>
+      <Text >App monu</Text>
     </View>
   );
 }
